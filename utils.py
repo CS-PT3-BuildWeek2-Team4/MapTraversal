@@ -21,7 +21,7 @@ class Queue():
         return f"Queue: {self.queue}"
     def enqueue(self, value):
         self.queue.append(value)
-    def.dequeue(self):
+    def dequeue(self):
         if self.size() > 0:
             return self.queue.pop(0)
         else:
