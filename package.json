@@ -1,0 +1,23 @@
+{
+  "name": "treasure-hunt-map-traversal",
+  "version": "1.0.0",
+  "description": "Node apps for traversing map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CS-PT3-BuildWeek2-Team4/MapTraversal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CS-PT3-BuildWeek2-Team4/MapTraversal/issues"
+  },
+  "homepage": "https://github.com/CS-PT3-BuildWeek2-Team4/MapTraversal#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "crypto-js": "^3.1.9-1"
+  }
+}
